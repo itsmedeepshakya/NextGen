@@ -10,5 +10,7 @@ It is a testing for
 - reliability 
 
 **speed related**  -user productivity, response time trend, consistency
+
 **scalability related** - capacity, volume, future growth, hardware
+
 **stability related** - reliability, robustness, memory leak
