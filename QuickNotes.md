@@ -19,6 +19,9 @@ It is a testing for
 
 ![typesOfPerformanceTesting]
 
+![apploaderComponents]
+
 <!-- links and images -->
 
 [typesOfPerformanceTesting]: QuickNotesImages/TypesOfPerformanceTesting.JPG
+[apploaderComponents]: QuickNotesImages/ApploaderComponents.JPG
